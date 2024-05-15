@@ -1,10 +1,14 @@
 +++
-title = 'What Is Trustworthy AI?'
+title = 'What Is AI?'
 date = 2024-05-15T15:48:02+08:00
 +++
-## What is AI?
+## Defining AI 
 
-Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI. Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.  
+Artificial Intelligence (AI) refers to the ability of a machine to recreate human behaviour. Machine Learning (which describes algorithms like neaural networks) is a subset of AI. 
+
+## Machines or Brains?
+
+Machine Learning replicates the human ability to learn from experience. A Neural Network algorithm constructs a network of nodes whose connections act like the nuerons in our brain.  
 
 ![AI Neural Network](images/TrustworthyAIneuralnetwork.jpeg)
 
