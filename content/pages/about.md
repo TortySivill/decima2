@@ -31,16 +31,8 @@ We introduce a concept for a second generation of decision machines. Decima2 dev
 
 ### Alexis Monks MBA
 
-Big Boss man with an aptitude for getting things done. Bosh 
-
-Strengths: Princess Diana Wardrobe 
-Weakness: > 1 bottle of red wine
-
 ### Dr Torty Sivill
 
-Loves to develop algorithms in her coding dungeon 
 
-Strengths: Roast dinners  
-Weakness: Calling it a night
 
 
